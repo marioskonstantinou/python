@@ -18,3 +18,5 @@ Mini-project # 3 - "Stopwatch: The Game"
 Week 4:
 Mini-project # 4 - "Pong"
 
+Week 5:
+Mini-project # 5 - "Memory"
